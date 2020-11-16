@@ -24,6 +24,7 @@
     <orderEntry type="library" name="XBee MicroPython" level="project" />
   </component>
   <component name="PackageRequirementsSettings">
+    <option name="versionSpecifier" value="Strong equality (==x.y.z)" />
     <option name="modifyBaseFiles" value="true" />
   </component>
 </module>
