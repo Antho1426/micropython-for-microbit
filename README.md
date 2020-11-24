@@ -2,6 +2,8 @@
 Bundle of MicroPython codes for micro:bit to get used to simple robotics
 concepts and activities.
 
+<img src="./README_pictures/microbit-board.png" alt="microbit-board.png" style="width: 320px;"/>
+
 ## Table of contents
 * [1. Description](#1-description)
 * [2. Getting started](#2-getting-started)

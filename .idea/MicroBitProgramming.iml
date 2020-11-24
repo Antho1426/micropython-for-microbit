@@ -11,9 +11,7 @@
       <configuration />
     </facet>
     <facet type="MicroPython" name="MicroPython">
-      <configuration>
-        <device name="Micro:bit" />
-      </configuration>
+      <configuration />
     </facet>
   </component>
   <component name="NewModuleRootManager">
